@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869234386607",
+    "project_id": "sensehawk-3b375",
+    "storage_bucket": "sensehawk-3b375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869234386607:android:548b8c57d3a1695cbf965a",
+        "android_client_info": {
+          "package_name": "com.sensehawk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869234386607-7ldm51026tdq9kej71tm7ucvr4a6r4mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5L3s9pi3giir9J_IcLbfhrqj7Avkubfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869234386607-7ldm51026tdq9kej71tm7ucvr4a6r4mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
